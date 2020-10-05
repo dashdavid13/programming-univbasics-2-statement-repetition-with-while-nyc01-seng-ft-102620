@@ -2,7 +2,7 @@
 
  
 count = 10
-while count >= 1< 10 do
+while count >= 1 do
   puts count 
   count -= 1
   puts "Happy New Year!"
